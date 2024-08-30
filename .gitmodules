@@ -1,0 +1,36 @@
+[submodule "moldev-backend-recommend"]
+	path = moldev-backend-recommend
+	url = https://github.com/KEA-4th-Bootstrap/moldev-backend-recommend
+[submodule "moldev-backend-dags"]
+	path = moldev-backend-dags
+	url = https://github.com/KEA-4th-Bootstrap/moldev-backend-dags
+[submodule "moldev-backend-api-composer"]
+	path = moldev-backend-api-composer
+	url = https://github.com/KEA-4th-Bootstrap/moldev-backend-api-composer
+[submodule "moldev-backend-post"]
+	path = moldev-backend-post
+	url = https://github.com/KEA-4th-Bootstrap/moldev-backend-post
+[submodule "moldev-backend-reply"]
+	path = moldev-backend-reply
+	url = https://github.com/KEA-4th-Bootstrap/moldev-backend-reply
+[submodule "moldev-backend-report"]
+	path = moldev-backend-report
+	url = https://github.com/KEA-4th-Bootstrap/moldev-backend-report
+[submodule "moldev-backend-member"]
+	path = moldev-backend-member
+	url = https://github.com/KEA-4th-Bootstrap/moldev-backend-member
+[submodule "moldev-backend-search"]
+	path = moldev-backend-search
+	url = https://github.com/KEA-4th-Bootstrap/moldev-backend-search
+[submodule "moldev-backend-signaling"]
+	path = moldev-backend-signaling
+	url = https://github.com/KEA-4th-Bootstrap/moldev-backend-signaling
+[submodule "moldev-backend-auth"]
+	path = moldev-backend-auth
+	url = https://github.com/KEA-4th-Bootstrap/moldev-backend-auth
+[submodule "moldev-backend-chatbot"]
+	path = moldev-backend-chatbot
+	url = https://github.com/KEA-4th-Bootstrap/moldev-backend-chatbot
+[submodule "moldev-kubernetes-manifest"]
+	path = moldev-kubernetes-manifest
+	url = https://github.com/KEA-4th-Bootstrap/moldev-kubernetes-manifest
